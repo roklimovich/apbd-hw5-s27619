@@ -1,6 +1,6 @@
 using RoomBookingAPI.Models;
 
-namespace RoomBookingApi;
+namespace RoomBookingAPI;
 
 public static class DataStore
 {
